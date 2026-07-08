@@ -1,16 +1,6 @@
 Hi , I'm Dharmveer Bairawa
 
-Aspiring DevOps Engineer
-
-🚀 Currently learning:
-- Linux
-- Git & GitHub
-- Python
-- AWS
-- Docker
-- Jenkins
-- Terraform
-- Kubernetes
+Aspiring DevOps Engineer | AWS • Docker • Kubernetes • Jenkins • Terraform • Python | Building Real DevOps Projects 🚀
 
 💻 I enjoy building hands-on DevOps projects and learning.
 
